@@ -50,3 +50,23 @@
 | 08    | Brain Tumor Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 09    | Pneumonia Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 10    | Realtime Face Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+
+
+## Student Contribution
+
+### Git Practical Assignment
+
+This project demonstrates GitHub collaboration.
+
+1. Cloned the original repository.
+2. Forked the repository.
+3. Created GIT-EXAM feature branch.
+4. Added student contribution details.
+5. Submitted a Pull Request.
+
+## Importance of GitHub Collaboration
+
+- GitHub helps developers work together.
+- Branches allow developers to work independently.
+- Pull Requests help review code changes.
+- Merge conflicts can be resolved through collaboration.
