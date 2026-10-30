@@ -63,3 +63,10 @@ This project demonstrates GitHub collaboration.
 3. Created GIT-EXAM feature branch.
 4. Added student contribution details.
 5. Submitted a Pull Request.
+
+## Importance of GitHub Collaboration
+
+- GitHub helps developers work together.
+- Branches allow developers to work independently.
+- Pull Requests help review code changes.
+- Merge conflicts can be resolved through collaboration.
